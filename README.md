@@ -29,3 +29,5 @@ Diccionario con audios en mapuzugun, escrito en Alfabeto Azumchefe y audios en v
 https://talleresdemapuzugun.com/
 Traductor Conadi: Sistema multilingüe de traducción al mapuzugung, desarrollado por la Unidad de Cultura y Educación de la Subdirección Temuco (Chile).
 
+https://drive.google.com/file/d/1ALYn7F08jxFULGBpWpR4H23v4Lil4Vip/view
+Diccionario PDF con imágenes a color (188 páginas)
