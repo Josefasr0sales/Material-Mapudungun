@@ -3,6 +3,9 @@ Clases de Mapudungun, libros, etc
 
 # Cursos
 ## Online
+
+https://talleresdemapuzugun.com/ (gratuito)
+
 http://www.idiomas.filo.uba.ar/es/mapuche (de pago)
 
 https://filosofia.uchile.cl/cursos/173602/curso-de-mapudungun-nivel-1 (de pago)
@@ -16,7 +19,7 @@ https://www.youtube.com/watch?v=7ussKtM1aV0
 ## Presenciales
 Chile
 Argentina
-http://www.idiomas.filo.uba.ar/es/mapuche
+http://www.idiomas.filo.uba.ar/es/mapuche (Buenos Aires)
 
 # Diccionarios
 https://talleresdemapuzugun.com/
