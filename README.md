@@ -37,3 +37,10 @@ Traductor Conadi: Sistema multilingüe de traducción al mapuzugung, desarrollad
 
 https://drive.google.com/file/d/1ALYn7F08jxFULGBpWpR4H23v4Lil4Vip/view
 Diccionario PDF con imágenes a color (188 páginas)
+
+# Otros
+
+Mora, Maribel (2011). Poesía williche y poesía moderna: tensiones y distensiones de un diálogo estético-literario. Tesis de Magister en Literatura, Universidad de Chile. 
+
+https://sadowsky.cl/mapu/
+página que recopila sonidos del mapudungun según su distinta locación
