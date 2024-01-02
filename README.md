@@ -1,11 +1,6 @@
 # Material-Mapudungun
 Clases de Mapudungun, libros, etc
 
-# Libros 
-
-https://www.cepchile.cl/wp-content/uploads/2022/09/libro_Mapudungun_Fernando-Zuniga.pdf
-Introducción a la lengua mapuche,
-con notas comparativas y un CD
 
 # Cursos
 ## Online
